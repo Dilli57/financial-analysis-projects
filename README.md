@@ -49,12 +49,11 @@ Financial-Analysis-Project/
 📌 Financial Dashboard: Visual storytelling with charts, KPIs, and metrics
 
 📈 Visual Insights (Charts Used)
+![WhatsApp Image 2025-11-18 at 17 05 50_3bca9675](https://github.com/user-attachments/assets/d6931232-f6b8-4329-be7f-d8dd5cc16933)
 
 📊 Line Chart – Monthly Revenue Trend
 📊 Bar Chart – Yearly Profit Comparison
 📊 Pie Chart – Expense Category Share
-📊 Heatmap – Region-wise Sales Performance
-📊 Scatter Plot – Revenue vs. Profit Correlation
 
 🚀 How to Run the Project
 1️⃣ Clone the Repository
