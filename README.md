@@ -90,8 +90,8 @@ Feel free to open issues or submit pull requests.
 📬 Contact
 
 👤 Dilli Babu
-📧 Email: dillibabu5757@gmail.com
+📧 Email: snbadrinarayana2003@gmail.com
 
-🔗 LinkedIn: https://www.linkedin.com/in/dilli-babu-2b943522b/
+🔗 LinkedIn: https://www.linkedin.com/in/badri-narayana-s-n-133159287/
 
-🐙 GitHub: https://github.com/Dilli57
+🐙 GitHub: https://github.com/1Badri/
