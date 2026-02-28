@@ -1,4 +1,4 @@
-📊 Financial Analysis Project – Data Analysis
+📊 Financial Data Analysis & Power BI Dashboard
 📁 Project Overview
 
 This project focuses on analyzing financial data to uncover insights related to revenue trends, profit performance, customer behavior, and key financial indicators. Using data analysis techniques in Python, the project delivers dashboards, visualizations, and actionable insights to support business decision-making and financial planning.
