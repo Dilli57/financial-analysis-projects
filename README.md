@@ -42,10 +42,15 @@ Financial-Analysis-Project/
 🔍 Key Analysis Performed
 
 📌 Data Cleaning: Removing nulls, fixing formats, handling outliers
+
 📌 Trend Analysis: Revenue growth, profit/loss trends
+
 📌 Customer Analysis: Top customers, retention, purchase frequency
+
 📌 Expense Analysis: Cost breakdown and ROI estimation
+
 📌 Profitability Analysis: Product-wise and region-wise profitability
+
 📌 Financial Dashboard: Visual storytelling with charts, KPIs, and metrics
 
 📈 Visual Insights (Charts Used)
